@@ -4,7 +4,7 @@
     <artifactId>tesuas</artifactId>
     <version>1.1</version>
     <packaging>jar</packaging>
-    <dependencies>
+    <dependencies> 
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
